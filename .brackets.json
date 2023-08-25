@@ -1,0 +1,6 @@
+{
+    "language.fileExtensions": {
+        "tsx": "jsx",
+        "ts": "jsx"
+    }
+}
